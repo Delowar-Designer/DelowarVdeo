@@ -19,7 +19,7 @@ Contributors are working behind the scenes to make open source better for everyo
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    
 </head>
 <body>
     <h></h>
